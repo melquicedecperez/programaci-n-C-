@@ -1,8 +1,3 @@
-# programacion CSharp
-
-¡Claro! Aquí tienes un ejemplo de un README.md para un repositorio de GitHub sobre programación básica en C#:
-
----
 
 # Programación Básica en C#
 
